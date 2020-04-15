@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-15_1058",
+    "name": "10000000",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -72,11 +72,16 @@
     "imageResize": true,
     "favicon": false,
     "robotsSwitcher": false,
-    "cookiesAlert": false,
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 21,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
