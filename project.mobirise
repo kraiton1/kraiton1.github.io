@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "interent-menedzher",
+    "name": "internet-menedzher",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -88,12 +88,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "interent-menedzher",
-        "meta_descr": "Программа для заработка на просторах интернета для всех слоев",
+        "title": "internet-menedzher",
+        "meta_descr": "Программа для заработка на просторах интернета для всех слоев people",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/%D0%97%D0%92%D0%95%D0%97%D0%94%D0%90-300x286.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/.jpg"
       },
       "components": [
         {
