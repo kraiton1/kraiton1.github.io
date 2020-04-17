@@ -131,7 +131,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "3",
             "columns": 4,
