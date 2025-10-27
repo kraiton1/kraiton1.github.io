@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google
+User-agent: Yandex
+User-agent: Googlebot
+User-agent: Yandex
+Allow: /
+User-agent: Googlebot
+Allow: /
